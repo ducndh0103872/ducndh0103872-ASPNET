@@ -1,0 +1,313 @@
+@model ShoeShopAnNhien.ViewModels.AdminStatisticsViewModel
+@{
+    ViewData["Title"] = "Thống Kê Doanh Thu - Admin Panel";
+    Layout = "_AdminLayout";
+}
+
+<!-- Page Header -->
+<div class="page-header">
+    <div class="d-flex justify-content-between align-items-center">
+        <div>
+            <h1 class="h3 mb-0">Thống Kê Doanh Thu</h1>
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="@Url.Action("Index", "Admin")">Dashboard</a></li>
+                    <li class="breadcrumb-item active">Thống Kê</li>
+                </ol>
+            </nav>
+        </div>
+        <div>
+            <div class="btn-group" role="group">
+                <button class="btn btn-outline-primary" onclick="exportStatistics()">
+                    <i class="fas fa-download me-2"></i>Xuất Báo Cáo
+                </button>
+                <button class="btn btn-outline-secondary" onclick="printStatistics()">
+                    <i class="fas fa-print me-2"></i>In Báo Cáo
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Statistics Cards -->
+<div class="row mb-4">
+    <div class="col-xl-3 col-md-6 mb-4">
+        <div class="stats-card" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+            <div class="d-flex justify-content-between align-items-center">
+                <div>
+                    <h3>@Model.TotalRevenue.ToString("N0") VNĐ</h3>
+                    <p>Tổng Doanh Thu</p>
+                </div>
+                <div>
+                    <i class="fas fa-dollar-sign" style="font-size: 3rem; opacity: 0.3;"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-xl-3 col-md-6 mb-4">
+        <div class="stats-card" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
+            <div class="d-flex justify-content-between align-items-center">
+                <div>
+                    <h3>@Model.MonthlyRevenue.ToString("N0") VNĐ</h3>
+                    <p>Doanh Thu Tháng Này</p>
+                </div>
+                <div>
+                    <i class="fas fa-chart-line" style="font-size: 3rem; opacity: 0.3;"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-xl-3 col-md-6 mb-4">
+        <div class="stats-card" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
+            <div class="d-flex justify-content-between align-items-center">
+                <div>
+                    <h3>@Model.TotalOrdersThisMonth</h3>
+                    <p>Đơn Hàng Tháng Này</p>
+                </div>
+                <div>
+                    <i class="fas fa-shopping-cart" style="font-size: 3rem; opacity: 0.3;"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-xl-3 col-md-6 mb-4">
+        <div class="stats-card" style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);">
+            <div class="d-flex justify-content-between align-items-center">
+                <div>
+                    <h3>@Model.NewCustomersThisMonth</h3>
+                    <p>Khách Hàng Mới</p>
+                </div>
+                <div>
+                    <i class="fas fa-users" style="font-size: 3rem; opacity: 0.3;"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Charts Row -->
+<div class="row mb-4">
+    <!-- Revenue Chart -->
+    <div class="col-lg-8 mb-4">
+        <div class="chart-container">
+            <h5><i class="fas fa-chart-area me-2"></i>Biểu Đồ Doanh Thu Theo Tháng</h5>
+            <div class="chart-placeholder bg-light rounded d-flex align-items-center justify-content-center" style="height: 300px;">
+                <div class="text-center">
+                    <i class="fas fa-chart-line text-muted fs-1 mb-3"></i>
+                    <h6 class="text-muted">Biểu Đồ Doanh Thu</h6>
+                    <p class="text-muted">Dữ liệu sẽ được hiển thị bằng Chart.js</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Top Categories -->
+    <div class="col-lg-4 mb-4">
+        <div class="chart-container">
+            <h5><i class="fas fa-chart-pie me-2"></i>Danh Mục Bán Chạy</h5>
+            <div class="chart-placeholder bg-light rounded d-flex align-items-center justify-content-center" style="height: 300px;">
+                <div class="text-center">
+                    <i class="fas fa-chart-pie text-muted fs-1 mb-3"></i>
+                    <h6 class="text-muted">Biểu Đồ Tròn</h6>
+                    <p class="text-muted">Phân tích theo danh mục</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Detailed Statistics -->
+<div class="row">
+    <!-- Sales by Category -->
+    <div class="col-lg-6 mb-4">
+        <div class="card admin-table">
+            <div class="card-header">
+                <h5 class="mb-0"><i class="fas fa-tags me-2"></i>Doanh Số Theo Danh Mục</h5>
+            </div>
+            <div class="card-body p-0">
+                <div class="table-responsive">
+                    <table class="table table-hover mb-0">
+                        <thead>
+                            <tr>
+                                <th>Danh Mục</th>
+                                <th>Số Sản Phẩm</th>
+                                <th>Đã Bán</th>
+                                <th>Doanh Thu</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><strong>Giày Thể Thao</strong></td>
+                                <td><span class="badge bg-primary">4 sản phẩm</span></td>
+                                <td>156 đôi</td>
+                                <td class="text-success fw-bold">45,600,000 VNĐ</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Giày Cao Gót</strong></td>
+                                <td><span class="badge bg-primary">2 sản phẩm</span></td>
+                                <td>89 đôi</td>
+                                <td class="text-success fw-bold">28,400,000 VNĐ</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Giày Tây</strong></td>
+                                <td><span class="badge bg-primary">1 sản phẩm</span></td>
+                                <td>67 đôi</td>
+                                <td class="text-success fw-bold">22,100,000 VNĐ</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Giày Sandal</strong></td>
+                                <td><span class="badge bg-primary">1 sản phẩm</span></td>
+                                <td>45 đôi</td>
+                                <td class="text-success fw-bold">12,800,000 VNĐ</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Giày Boot</strong></td>
+                                <td><span class="badge bg-primary">1 sản phẩm</span></td>
+                                <td>23 đôi</td>
+                                <td class="text-success fw-bold">8,900,000 VNĐ</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Top Products -->
+    <div class="col-lg-6 mb-4">
+        <div class="card admin-table">
+            <div class="card-header">
+                <h5 class="mb-0"><i class="fas fa-star me-2"></i>Sản Phẩm Bán Chạy</h5>
+            </div>
+            <div class="card-body p-0">
+                <div class="table-responsive">
+                    <table class="table table-hover mb-0">
+                        <thead>
+                            <tr>
+                                <th>Sản Phẩm</th>
+                                <th>Thương Hiệu</th>
+                                <th>Đã Bán</th>
+                                <th>Doanh Thu</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <div class="d-flex align-items-center">
+                                        <img src="/images/products/nike-air-max-270.jpg" alt="Nike Air Max 270" class="me-2 rounded" style="width: 40px; height: 40px; object-fit: cover;">
+                                        <strong>Nike Air Max 270</strong>
+                                    </div>
+                                </td>
+                                <td>Nike</td>
+                                <td><span class="badge bg-success">89 đôi</span></td>
+                                <td class="text-success fw-bold">19,580,000 VNĐ</td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="d-flex align-items-center">
+                                        <img src="/images/products/adidas-ultraboost-22.jpg" alt="Adidas Ultraboost 22" class="me-2 rounded" style="width: 40px; height: 40px; object-fit: cover;">
+                                        <strong>Adidas Ultraboost 22</strong>
+                                    </div>
+                                </td>
+                                <td>Adidas</td>
+                                <td><span class="badge bg-success">67 đôi</span></td>
+                                <td class="text-success fw-bold">21,440,000 VNĐ</td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="d-flex align-items-center">
+                                        <img src="/images/products/converse-chuck-taylor.jpg" alt="Converse Chuck Taylor" class="me-2 rounded" style="width: 40px; height: 40px; object-fit: cover;">
+                                        <strong>Converse Chuck Taylor</strong>
+                                    </div>
+                                </td>
+                                <td>Converse</td>
+                                <td><span class="badge bg-success">56 đôi</span></td>
+                                <td class="text-success fw-bold">5,544,000 VNĐ</td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="d-flex align-items-center">
+                                        <img src="/images/products/giay-tay-oxford.jpg" alt="Giày Tây Oxford" class="me-2 rounded" style="width: 40px; height: 40px; object-fit: cover;">
+                                        <strong>Giày Tây Oxford</strong>
+                                    </div>
+                                </td>
+                                <td>Classic</td>
+                                <td><span class="badge bg-success">45 đôi</span></td>
+                                <td class="text-success fw-bold">8,910,000 VNĐ</td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="d-flex align-items-center">
+                                        <img src="/images/products/bitis-hunter-street.jpg" alt="Biti's Hunter Street" class="me-2 rounded" style="width: 40px; height: 40px; object-fit: cover;">
+                                        <strong>Biti's Hunter Street</strong>
+                                    </div>
+                                </td>
+                                <td>Biti's</td>
+                                <td><span class="badge bg-success">78 đôi</span></td>
+                                <td class="text-success fw-bold">4,056,000 VNĐ</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Performance Metrics -->
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h5 class="mb-0"><i class="fas fa-chart-bar me-2"></i>Chỉ Số Hiệu Suất</h5>
+            </div>
+            <div class="card-body">
+                <div class="row text-center">
+                    <div class="col-md-2 mb-3">
+                        <h4 class="text-primary">2.3M VNĐ</h4>
+                        <small class="text-muted">Doanh Thu Trung Bình/Ngày</small>
+                    </div>
+                    <div class="col-md-2 mb-3">
+                        <h4 class="text-success">15.6</h4>
+                        <small class="text-muted">Đơn Hàng Trung Bình/Ngày</small>
+                    </div>
+                    <div class="col-md-2 mb-3">
+                        <h4 class="text-info">147K VNĐ</h4>
+                        <small class="text-muted">Giá Trị Đơn Hàng TB</small>
+                    </div>
+                    <div class="col-md-2 mb-3">
+                        <h4 class="text-warning">2.4</h4>
+                        <small class="text-muted">Sản Phẩm/Đơn Hàng TB</small>
+                    </div>
+                    <div class="col-md-2 mb-3">
+                        <h4 class="text-danger">12%</h4>
+                        <small class="text-muted">Tỷ Lệ Hủy Đơn</small>
+                    </div>
+                    <div class="col-md-2 mb-3">
+                        <h4 class="text-dark">94%</h4>
+                        <small class="text-muted">Tỷ Lệ Hài Lòng</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+function exportStatistics() {
+    showToast('Chức năng xuất báo cáo sẽ được phát triển trong phiên bản tiếp theo!', 'info');
+}
+
+function printStatistics() {
+    window.print();
+}
+
+// Initialize charts (placeholder)
+document.addEventListener('DOMContentLoaded', function() {
+    // Here you would initialize Chart.js charts
+    console.log('Statistics page loaded - Charts would be initialized here');
+});
+</script>

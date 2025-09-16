@@ -1,0 +1,207 @@
+@{
+    ViewData["Title"] = "Liên Hệ";
+}
+
+<!-- Hero Section -->
+<section class="hero-section bg-primary text-white py-5" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6">
+                <h1 class="display-4 fw-bold mb-4">Liên Hệ Với Chúng Tôi</h1>
+                <p class="lead">Chúng tôi luôn sẵn sàng lắng nghe và hỗ trợ bạn</p>
+            </div>
+            <div class="col-lg-6 text-center">
+                <i class="fas fa-phone" style="font-size: 8rem; opacity: 0.3;"></i>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Contact Content -->
+<section class="py-5">
+    <div class="container">
+        <div class="row">
+            <!-- Contact Info -->
+            <div class="col-lg-4 mb-5">
+                <h3 class="fw-bold mb-4">Thông Tin Liên Hệ</h3>
+                
+                <div class="contact-item mb-4">
+                    <div class="d-flex align-items-start">
+                        <div class="contact-icon me-3">
+                            <i class="fas fa-map-marker-alt text-primary fs-4"></i>
+                        </div>
+                        <div>
+                            <h6 class="fw-bold">Địa Chỉ</h6>
+                            <p class="text-muted mb-0">123 Đường ABC, Phường XYZ<br>Quận 1, TP. Hồ Chí Minh</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="contact-item mb-4">
+                    <div class="d-flex align-items-start">
+                        <div class="contact-icon me-3">
+                            <i class="fas fa-phone text-primary fs-4"></i>
+                        </div>
+                        <div>
+                            <h6 class="fw-bold">Điện Thoại</h6>
+                            <p class="text-muted mb-0">
+                                <a href="tel:0123456789" class="text-decoration-none">0123.456.789</a><br>
+                                <a href="tel:0987654321" class="text-decoration-none">0987.654.321</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="contact-item mb-4">
+                    <div class="d-flex align-items-start">
+                        <div class="contact-icon me-3">
+                            <i class="fas fa-envelope text-primary fs-4"></i>
+                        </div>
+                        <div>
+                            <h6 class="fw-bold">Email</h6>
+                            <p class="text-muted mb-0">
+                                <a href="mailto:info@shoegiayannnhien.com" class="text-decoration-none">info@shoegiayannnhien.com</a><br>
+                                <a href="mailto:support@shoegiayannnhien.com" class="text-decoration-none">support@shoegiayannnhien.com</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="contact-item mb-4">
+                    <div class="d-flex align-items-start">
+                        <div class="contact-icon me-3">
+                            <i class="fas fa-clock text-primary fs-4"></i>
+                        </div>
+                        <div>
+                            <h6 class="fw-bold">Giờ Làm Việc</h6>
+                            <p class="text-muted mb-0">
+                                Thứ 2 - Thứ 6: 8:00 - 22:00<br>
+                                Thứ 7 - Chủ Nhật: 9:00 - 21:00
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Social Media -->
+                <div class="mt-4">
+                    <h6 class="fw-bold mb-3">Theo Dõi Chúng Tôi</h6>
+                    <div class="d-flex">
+                        <a href="#" class="btn btn-outline-primary btn-sm me-2">
+                            <i class="fab fa-facebook-f"></i>
+                        </a>
+                        <a href="#" class="btn btn-outline-primary btn-sm me-2">
+                            <i class="fab fa-instagram"></i>
+                        </a>
+                        <a href="#" class="btn btn-outline-primary btn-sm me-2">
+                            <i class="fab fa-youtube"></i>
+                        </a>
+                        <a href="#" class="btn btn-outline-primary btn-sm">
+                            <i class="fab fa-tiktok"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Contact Form -->
+            <div class="col-lg-8">
+                <div class="card border-0 shadow-sm">
+                    <div class="card-body p-5">
+                        <h3 class="fw-bold mb-4">Gửi Tin Nhắn Cho Chúng Tôi</h3>
+                        
+                        <form id="contactForm">
+                            <div class="row">
+                                <div class="col-md-6 mb-3">
+                                    <label for="fullName" class="form-label">Họ và Tên *</label>
+                                    <input type="text" class="form-control" id="fullName" required>
+                                </div>
+                                <div class="col-md-6 mb-3">
+                                    <label for="email" class="form-label">Email *</label>
+                                    <input type="email" class="form-control" id="email" required>
+                                </div>
+                            </div>
+                            
+                            <div class="row">
+                                <div class="col-md-6 mb-3">
+                                    <label for="phone" class="form-label">Số Điện Thoại</label>
+                                    <input type="tel" class="form-control" id="phone">
+                                </div>
+                                <div class="col-md-6 mb-3">
+                                    <label for="subject" class="form-label">Chủ Đề *</label>
+                                    <select class="form-select" id="subject" required>
+                                        <option value="">Chọn chủ đề</option>
+                                        <option value="product">Hỏi về sản phẩm</option>
+                                        <option value="order">Đặt hàng</option>
+                                        <option value="support">Hỗ trợ kỹ thuật</option>
+                                        <option value="complaint">Khiếu nại</option>
+                                        <option value="other">Khác</option>
+                                    </select>
+                                </div>
+                            </div>
+                            
+                            <div class="mb-3">
+                                <label for="message" class="form-label">Tin Nhắn *</label>
+                                <textarea class="form-control" id="message" rows="5" required placeholder="Nhập tin nhắn của bạn..."></textarea>
+                            </div>
+                            
+                            <div class="mb-3 form-check">
+                                <input type="checkbox" class="form-check-input" id="agreeTerms" required>
+                                <label class="form-check-label" for="agreeTerms">
+                                    Tôi đồng ý với <a href="#" class="text-decoration-none">điều khoản sử dụng</a> và <a href="#" class="text-decoration-none">chính sách bảo mật</a>
+                                </label>
+                            </div>
+                            
+                            <button type="submit" class="btn btn-primary btn-lg">
+                                <i class="fas fa-paper-plane me-2"></i>Gửi Tin Nhắn
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Map Section -->
+<section class="py-5 bg-light">
+    <div class="container">
+        <div class="text-center mb-5">
+            <h3 class="fw-bold">Tìm Chúng Tôi Trên Bản Đồ</h3>
+            <p class="text-muted">Ghé thăm cửa hàng để trải nghiệm trực tiếp các sản phẩm</p>
+        </div>
+        
+        <div class="row">
+            <div class="col-12">
+                <div class="map-container bg-secondary rounded" style="height: 400px; position: relative;">
+                    <div class="d-flex align-items-center justify-content-center h-100">
+                        <div class="text-center text-white">
+                            <i class="fas fa-map-marked-alt fs-1 mb-3"></i>
+                            <h5>Bản Đồ Google Maps</h5>
+                            <p>123 Đường ABC, Phường XYZ, Quận 1, TP.HCM</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script>
+document.getElementById('contactForm').addEventListener('submit', function(e) {
+    e.preventDefault();
+    
+    // Get form data
+    const formData = {
+        fullName: document.getElementById('fullName').value,
+        email: document.getElementById('email').value,
+        phone: document.getElementById('phone').value,
+        subject: document.getElementById('subject').value,
+        message: document.getElementById('message').value
+    };
+    
+    // Show success message
+    showToast('Cảm ơn bạn đã liên hệ! Chúng tôi sẽ phản hồi trong thời gian sớm nhất.', 'success');
+    
+    // Reset form
+    this.reset();
+});
+</script>

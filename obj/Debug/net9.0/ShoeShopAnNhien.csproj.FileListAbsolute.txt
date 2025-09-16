@@ -1,0 +1,987 @@
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\ShoeShopAnNhien.csproj.AssemblyReference.cache
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\ShoeShopAnNhien.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\ShoeShopAnNhien.AssemblyInfoInputs.cache
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\ShoeShopAnNhien.AssemblyInfo.cs
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\ShoeShopAnNhien.csproj.CoreCompileInputs.cache
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\ShoeShopAnNhien.MvcApplicationPartsAssemblyInfo.cache
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\ShoeShopAnNhien.RazorAssemblyInfo.cache
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\ShoeShopAnNhien.RazorAssemblyInfo.cs
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\appsettings.Development.json
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\appsettings.json
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\ShoeShopAnNhien.staticwebassets.runtime.json
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\ShoeShopAnNhien.staticwebassets.endpoints.json
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\ShoeShopAnNhien.exe
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\ShoeShopAnNhien.deps.json
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\ShoeShopAnNhien.runtimeconfig.json
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\ShoeShopAnNhien.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\ShoeShopAnNhien.pdb
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Azure.Core.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Azure.Identity.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Humanizer.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\System.ClientModel.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\System.CodeDom.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\System.Memory.Data.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\ShoeShopAnNhien.MvcApplicationPartsAssemblyInfo.cs
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\scopedcss\bundle\ShoeShopAnNhien.styles.css
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\scopedcss\projectbundle\ShoeShopAnNhien.bundle.scp.css
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\mnzfjppgbm-61n19gt1b8.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\lme4py5qec-bqjiyaj88i.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\w0wo3w02eu-c2jlpeoesf.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\ojo50299ji-erw9l3u2r3.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\vzlfv8ayge-aexeepp0ev.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\cz72h42ci9-d7shbmvgxk.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\bb2veg7dnb-ausgxo2sd3.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\2r8trvsreu-k8d9w2qqmf.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\8vsblbgcu8-cosvhxvwiu.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\moeu2gau1x-ub07r2b239.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\kmfoz8ik7c-fvhpjtyr6v.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\v4v8jhlgh6-b7pk76d08c.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\syoe4xa1xn-fsbi9cje9m.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\q6tfxd74d5-rzd6atqjts.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\d2c30w43dr-ee0r1s7dh0.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\yvgkg98a0u-dxx9fxp4il.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\11ya00ngah-jd9uben2k1.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\nkrdqkesd3-khv3u5hwcm.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\gpo65s6scb-r4e9w2rdcm.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\6jfli95l9p-lcd1t2u6c8.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\4qp4ou20u9-c2oey78nd0.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\c2j2c6dw8y-tdbxkamptv.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\pfjvdxw8eh-j5mq2jizvt.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\8omxv5drqg-06098lyss8.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\937c9an08q-nvvlpmu67g.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\2w1quu9rjj-s35ty4nyc5.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\edsb6dv727-pj5nd1wqec.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\8mes9n6yvu-46ein0sx1k.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\trj50rn29p-v0zj4ognzu.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\gpxhnec3i7-37tfw0ft22.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\mm0zi9y2mv-hrwsygsryq.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\1gj28wiugc-pk9g2wxc8p.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\bhizbd91dp-ft3s53vfgj.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\n2gymnpw05-6cfz1n2cew.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\fye280x2tg-6pdc2jztkx.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\vud0cmacte-493y06b0oq.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\hszg8sna6n-iovd86k7lj.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\jquxvjdviv-vr1egmr9el.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\gy4ponhhdp-kbrnm935zg.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\87iu4sxos0-jj8uyg4cgr.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\z5ae4c3rnc-y7v9cxd14o.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\v4zx9fgw6t-notf2xhcfb.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\nj8wg5poap-h1s4sie4z3.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\p45gpm7vec-63fj8s7r0e.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\6ja2o8s4au-0j3bgjxly4.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\jfeth2yuyt-47otxtyo56.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\lsoyonkgh6-4v8eqarkd7.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\wj4o34evrm-356vix0kms.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\1mm30zfehd-83jwlth58m.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\r5adkz6v91-mrlpezrjn3.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\6hdckvaymm-lzl9nlhx6b.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\pcldeyzz5h-ag7o75518u.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\1xmm58uqzt-x0q3zqp4vz.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\eigr9dwutc-0i3buxo5is.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\mnwymsaoi3-o1o13a6vjx.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\8cji0s8b40-ttgo8qnofa.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\j636vtnu0d-2z0ns9nrw6.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\fx0y26tojq-muycvpuwrr.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\68jf9bnm1b-87fc7y1x7t.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\swxwyoee87-mlv21k5csn.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\e11ejxkqff-fg2jea2nkz.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\12kmsfh0gf-fg2jea2nkz.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\staticwebassets.build.json
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\staticwebassets.development.json
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\ShoeShop.17C39A19.Up2Date
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\ShoeShopAnNhien.dll
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\refint\ShoeShopAnNhien.dll
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\ShoeShopAnNhien.pdb
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\ShoeShopAnNhien.genruntimeconfig.cache
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\ref\ShoeShopAnNhien.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\test\.NET SDK\ShoeShopAnNhien\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\ydsimofm3k-j6uiw1e68n.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\s1pscwwzre-lbqc3kgbxc.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\r7zbt8o7nw-i59wnfu0tj.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\r6kxvgjvxs-2e4r5sr7k1.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\5j7nbcsxpm-r3j9ksltt9.gz
+D:\test\.NET SDK\ShoeShopAnNhien\obj\Debug\net9.0\compressed\00tqr6j1ki-m5clf75e6a.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\appsettings.Development.json
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\appsettings.json
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ShoeShopAnNhien.staticwebassets.endpoints.json
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ShoeShopAnNhien.staticwebassets.runtime.json
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ShoeShopAnNhien.exe
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ShoeShopAnNhien.deps.json
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ShoeShopAnNhien.runtimeconfig.json
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ShoeShopAnNhien.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ShoeShopAnNhien.pdb
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Azure.Core.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Azure.Identity.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Humanizer.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.ClientModel.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.CodeDom.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.Memory.Data.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ShoeShopAnNhien.csproj.AssemblyReference.cache
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ShoeShopAnNhien.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ShoeShopAnNhien.AssemblyInfoInputs.cache
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ShoeShopAnNhien.AssemblyInfo.cs
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ShoeShopAnNhien.csproj.CoreCompileInputs.cache
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ShoeShopAnNhien.MvcApplicationPartsAssemblyInfo.cs
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ShoeShopAnNhien.MvcApplicationPartsAssemblyInfo.cache
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ShoeShopAnNhien.RazorAssemblyInfo.cache
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ShoeShopAnNhien.RazorAssemblyInfo.cs
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\scopedcss\bundle\ShoeShopAnNhien.styles.css
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\scopedcss\projectbundle\ShoeShopAnNhien.bundle.scp.css
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\r6kxvgjvxs-2e4r5sr7k1.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\ydsimofm3k-j6uiw1e68n.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\mnzfjppgbm-61n19gt1b8.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\s1pscwwzre-lbqc3kgbxc.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\5j7nbcsxpm-r3j9ksltt9.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\00tqr6j1ki-m5clf75e6a.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\r7zbt8o7nw-i59wnfu0tj.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\lme4py5qec-bqjiyaj88i.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\w0wo3w02eu-c2jlpeoesf.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\ojo50299ji-erw9l3u2r3.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\vzlfv8ayge-aexeepp0ev.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\cz72h42ci9-d7shbmvgxk.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\bb2veg7dnb-ausgxo2sd3.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\2r8trvsreu-k8d9w2qqmf.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\8vsblbgcu8-cosvhxvwiu.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\moeu2gau1x-ub07r2b239.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\kmfoz8ik7c-fvhpjtyr6v.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\v4v8jhlgh6-b7pk76d08c.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\syoe4xa1xn-fsbi9cje9m.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\q6tfxd74d5-rzd6atqjts.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\d2c30w43dr-ee0r1s7dh0.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\yvgkg98a0u-dxx9fxp4il.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\11ya00ngah-jd9uben2k1.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\nkrdqkesd3-khv3u5hwcm.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\gpo65s6scb-r4e9w2rdcm.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\6jfli95l9p-lcd1t2u6c8.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\4qp4ou20u9-c2oey78nd0.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\c2j2c6dw8y-tdbxkamptv.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\pfjvdxw8eh-j5mq2jizvt.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\8omxv5drqg-06098lyss8.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\937c9an08q-nvvlpmu67g.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\2w1quu9rjj-s35ty4nyc5.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\edsb6dv727-pj5nd1wqec.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\8mes9n6yvu-46ein0sx1k.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\trj50rn29p-v0zj4ognzu.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\gpxhnec3i7-37tfw0ft22.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\mm0zi9y2mv-hrwsygsryq.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\1gj28wiugc-pk9g2wxc8p.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\bhizbd91dp-ft3s53vfgj.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\n2gymnpw05-6cfz1n2cew.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\fye280x2tg-6pdc2jztkx.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\vud0cmacte-493y06b0oq.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\hszg8sna6n-iovd86k7lj.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\jquxvjdviv-vr1egmr9el.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\gy4ponhhdp-kbrnm935zg.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\87iu4sxos0-jj8uyg4cgr.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\z5ae4c3rnc-y7v9cxd14o.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\v4zx9fgw6t-notf2xhcfb.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\nj8wg5poap-h1s4sie4z3.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\p45gpm7vec-63fj8s7r0e.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\6ja2o8s4au-0j3bgjxly4.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\jfeth2yuyt-47otxtyo56.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\lsoyonkgh6-4v8eqarkd7.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\wj4o34evrm-356vix0kms.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\1mm30zfehd-83jwlth58m.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\r5adkz6v91-mrlpezrjn3.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\6hdckvaymm-lzl9nlhx6b.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\pcldeyzz5h-ag7o75518u.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\1xmm58uqzt-x0q3zqp4vz.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\eigr9dwutc-0i3buxo5is.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\mnwymsaoi3-o1o13a6vjx.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\8cji0s8b40-ttgo8qnofa.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\j636vtnu0d-2z0ns9nrw6.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\fx0y26tojq-muycvpuwrr.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\68jf9bnm1b-87fc7y1x7t.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\swxwyoee87-mlv21k5csn.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\e11ejxkqff-fg2jea2nkz.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\12kmsfh0gf-fg2jea2nkz.gz
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\staticwebassets.build.json
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\staticwebassets.development.json
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ShoeShop.17C39A19.Up2Date
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ShoeShopAnNhien.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\refint\ShoeShopAnNhien.dll
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ShoeShopAnNhien.pdb
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ShoeShopAnNhien.genruntimeconfig.cache
+D:\test\.NET SDK\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ref\ShoeShopAnNhien.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\appsettings.Development.json
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\appsettings.json
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ShoeShopAnNhien.staticwebassets.endpoints.json
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ShoeShopAnNhien.staticwebassets.runtime.json
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ShoeShopAnNhien.exe
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ShoeShopAnNhien.deps.json
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ShoeShopAnNhien.runtimeconfig.json
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ShoeShopAnNhien.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ShoeShopAnNhien.pdb
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Azure.Core.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Azure.Identity.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Humanizer.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.ClientModel.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.CodeDom.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.Memory.Data.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ShoeShopAnNhien.csproj.AssemblyReference.cache
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ShoeShopAnNhien.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ShoeShopAnNhien.AssemblyInfoInputs.cache
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ShoeShopAnNhien.AssemblyInfo.cs
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ShoeShopAnNhien.csproj.CoreCompileInputs.cache
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ShoeShopAnNhien.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ShoeShopAnNhien.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ShoeShopAnNhien.RazorAssemblyInfo.cache
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ShoeShopAnNhien.RazorAssemblyInfo.cs
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\scopedcss\bundle\ShoeShopAnNhien.styles.css
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\scopedcss\projectbundle\ShoeShopAnNhien.bundle.scp.css
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\r6kxvgjvxs-2e4r5sr7k1.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\ydsimofm3k-j6uiw1e68n.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\mnzfjppgbm-61n19gt1b8.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\s1pscwwzre-lbqc3kgbxc.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\5j7nbcsxpm-r3j9ksltt9.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\00tqr6j1ki-m5clf75e6a.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\r7zbt8o7nw-i59wnfu0tj.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\lme4py5qec-bqjiyaj88i.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\w0wo3w02eu-c2jlpeoesf.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\ojo50299ji-erw9l3u2r3.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\vzlfv8ayge-aexeepp0ev.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\cz72h42ci9-d7shbmvgxk.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\bb2veg7dnb-ausgxo2sd3.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\2r8trvsreu-k8d9w2qqmf.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\8vsblbgcu8-cosvhxvwiu.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\moeu2gau1x-ub07r2b239.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\kmfoz8ik7c-fvhpjtyr6v.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\v4v8jhlgh6-b7pk76d08c.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\syoe4xa1xn-fsbi9cje9m.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\q6tfxd74d5-rzd6atqjts.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\d2c30w43dr-ee0r1s7dh0.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\yvgkg98a0u-dxx9fxp4il.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\11ya00ngah-jd9uben2k1.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\nkrdqkesd3-khv3u5hwcm.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\gpo65s6scb-r4e9w2rdcm.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\6jfli95l9p-lcd1t2u6c8.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\4qp4ou20u9-c2oey78nd0.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\c2j2c6dw8y-tdbxkamptv.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\pfjvdxw8eh-j5mq2jizvt.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\8omxv5drqg-06098lyss8.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\937c9an08q-nvvlpmu67g.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\2w1quu9rjj-s35ty4nyc5.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\edsb6dv727-pj5nd1wqec.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\8mes9n6yvu-46ein0sx1k.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\trj50rn29p-v0zj4ognzu.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\gpxhnec3i7-37tfw0ft22.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\mm0zi9y2mv-hrwsygsryq.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\1gj28wiugc-pk9g2wxc8p.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\bhizbd91dp-ft3s53vfgj.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\n2gymnpw05-6cfz1n2cew.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\fye280x2tg-6pdc2jztkx.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\vud0cmacte-493y06b0oq.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\hszg8sna6n-iovd86k7lj.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\jquxvjdviv-vr1egmr9el.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\gy4ponhhdp-kbrnm935zg.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\87iu4sxos0-jj8uyg4cgr.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\z5ae4c3rnc-y7v9cxd14o.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\v4zx9fgw6t-notf2xhcfb.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\nj8wg5poap-h1s4sie4z3.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\p45gpm7vec-63fj8s7r0e.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\6ja2o8s4au-0j3bgjxly4.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\jfeth2yuyt-47otxtyo56.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\lsoyonkgh6-4v8eqarkd7.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\wj4o34evrm-356vix0kms.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\1mm30zfehd-83jwlth58m.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\r5adkz6v91-mrlpezrjn3.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\6hdckvaymm-lzl9nlhx6b.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\pcldeyzz5h-ag7o75518u.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\1xmm58uqzt-x0q3zqp4vz.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\eigr9dwutc-0i3buxo5is.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\mnwymsaoi3-o1o13a6vjx.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\8cji0s8b40-ttgo8qnofa.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\j636vtnu0d-2z0ns9nrw6.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\fx0y26tojq-muycvpuwrr.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\68jf9bnm1b-87fc7y1x7t.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\swxwyoee87-mlv21k5csn.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\e11ejxkqff-fg2jea2nkz.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\compressed\12kmsfh0gf-fg2jea2nkz.gz
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\staticwebassets.build.json
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\staticwebassets.development.json
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ShoeShop.17C39A19.Up2Date
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ShoeShopAnNhien.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\refint\ShoeShopAnNhien.dll
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ShoeShopAnNhien.pdb
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ShoeShopAnNhien.genruntimeconfig.cache
+D:\ASP.NET\ShoeShopAnNhien\AnNhienShoe\obj\Debug\net9.0\ref\ShoeShopAnNhien.dll

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Download Real Product Images</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .image-item { margin: 15px 0; padding: 15px; border: 1px solid #ddd; }
+        .image-item img { max-width: 300px; height: 200px; object-fit: cover; }
+        .download-btn { padding: 8px 16px; background: #28a745; color: white; border: none; cursor: pointer; margin: 5px; }
+    </style>
+</head>
+<body>
+    <h1>Tải Hình Ảnh Thực Tế Cho Sản Phẩm</h1>
+    
+    <div class="image-item">
+        <h3>Nike Air Max 270</h3>
+        <img src="https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/99486859-0ff3-46b4-949b-2d16af2ad421/custom-nike-air-max-90.png" alt="Nike Air Max 270">
+        <br><button class="download-btn" onclick="downloadImage('https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/99486859-0ff3-46b4-949b-2d16af2ad421/custom-nike-air-max-90.png', 'nike-air-max-270.jpg')">Tải về</button>
+    </div>
+
+    <div class="image-item">
+        <h3>Adidas Ultraboost 22</h3>
+        <img src="https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg" alt="Adidas Ultraboost 22">
+        <br><button class="download-btn" onclick="downloadImage('https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg', 'adidas-ultraboost-22.jpg')">Tải về</button>
+    </div>
+
+    <div class="image-item">
+        <h3>Converse Chuck Taylor All Star</h3>
+        <img src="https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw2f8b0b3e/images/a_107/M9160_A_107X1.jpg" alt="Converse Chuck Taylor">
+        <br><button class="download-btn" onclick="downloadImage('https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw2f8b0b3e/images/a_107/M9160_A_107X1.jpg', 'converse-chuck-taylor.jpg')">Tải về</button>
+    </div>
+
+    <div class="image-item">
+        <h3>Vans Old Skool</h3>
+        <img src="https://images.vans.com/is/image/Vans/D3HY28-HERO?$583x583$" alt="Vans Old Skool">
+        <br><button class="download-btn" onclick="downloadImage('https://images.vans.com/is/image/Vans/D3HY28-HERO?$583x583$', 'vans-old-skool.jpg')">Tải về</button>
+    </div>
+
+    <div class="image-item">
+        <h3>Biti's Hunter Street</h3>
+        <img src="https://product.hstatic.net/1000230642/product/dsmh00700den__6__beaeb93d4e8e4b9e9b7c0c7c5c5c5c5c.jpg" alt="Biti's Hunter Street">
+        <br><button class="download-btn" onclick="downloadImage('https://product.hstatic.net/1000230642/product/dsmh00700den__6__beaeb93d4e8e4b9e9b7c0c7c5c5c5c5c.jpg', 'bitis-hunter-street.jpg')">Tải về</button>
+    </div>
+
+    <div class="image-item">
+        <h3>Giày Tây Oxford</h3>
+        <img src="https://product.hstatic.net/200000265619/product/giay-tay-nam-oxford-da-bo-that-cao-cap-od15-1_grande.jpg" alt="Giày Tây Oxford">
+        <br><button class="download-btn" onclick="downloadImage('https://product.hstatic.net/200000265619/product/giay-tay-nam-oxford-da-bo-that-cao-cap-od15-1_grande.jpg', 'giay-tay-oxford.jpg')">Tải về</button>
+    </div>
+
+    <div class="image-item">
+        <h3>Giày Cao Gót Nữ</h3>
+        <img src="https://product.hstatic.net/1000230642/product/giay-cao-got-nu-dep-2021-cg001_grande.jpg" alt="Giày Cao Gót">
+        <br><button class="download-btn" onclick="downloadImage('https://product.hstatic.net/1000230642/product/giay-cao-got-nu-dep-2021-cg001_grande.jpg', 'cao-got-mui-nhon.jpg')">Tải về</button>
+    </div>
+
+    <div class="image-item">
+        <h3>Sandal Nữ</h3>
+        <img src="https://product.hstatic.net/1000230642/product/sandal-nu-dep-2021-sd001_grande.jpg" alt="Sandal Nữ">
+        <br><button class="download-btn" onclick="downloadImage('https://product.hstatic.net/1000230642/product/sandal-nu-dep-2021-sd001_grande.jpg', 'sandal-de-xuong.jpg')">Tải về</button>
+    </div>
+
+    <div class="image-item">
+        <h3>Boot Nam</h3>
+        <img src="https://product.hstatic.net/1000230642/product/boot-nam-da-that-bt001_grande.jpg" alt="Boot Nam">
+        <br><button class="download-btn" onclick="downloadImage('https://product.hstatic.net/1000230642/product/boot-nam-da-that-bt001_grande.jpg', 'boot-da-nam.jpg')">Tải về</button>
+    </div>
+
+    <div class="image-item">
+        <h3>Giày Cao Gót Đế Bệt</h3>
+        <img src="https://product.hstatic.net/1000230642/product/giay-chay-bo-nam-pr001_grande.jpg" alt="Giày Đế Bệt">
+        <br><button class="download-btn" onclick="downloadImage('https://product.hstatic.net/1000230642/product/giay-chay-bo-nam-pr001_grande.jpg', 'cao-got-de-bet.jpg')">Tải về</button>
+    </div>
+
+    <script>
+        function downloadImage(url, filename) {
+            fetch(url)
+                .then(response => response.blob())
+                .then(blob => {
+                    const link = document.createElement('a');
+                    link.href = URL.createObjectURL(blob);
+                    link.download = filename;
+                    link.click();
+                })
+                .catch(err => {
+                    alert('Không thể tải hình ảnh. Vui lòng click chuột phải và chọn "Save image as..."');
+                });
+        }
+    </script>
+
+    <div style="margin-top: 30px; padding: 20px; background: #f8f9fa;">
+        <h3>Hướng Dẫn:</h3>
+        <ol>
+            <li>Click nút "Tải về" để tự động tải hình ảnh</li>
+            <li>Hoặc click chuột phải vào hình và chọn "Save image as..."</li>
+            <li>Lưu vào thư mục: <code>wwwroot/images/products/</code></li>
+            <li>Đảm bảo tên file chính xác như hiển thị</li>
+        </ol>
+    </div>
+</body>
+</html>

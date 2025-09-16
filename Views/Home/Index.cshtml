@@ -1,0 +1,157 @@
+﻿@model ShoeShopAnNhien.ViewModels.HomeViewModel
+@{
+    ViewData["Title"] = "Trang Chủ";
+}
+
+<!-- Hero Banner -->
+<section class="hero-banner">
+    <div id="heroCarousel" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="0" class="active"></button>
+            <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="1"></button>
+            <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="2"></button>
+        </div>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <div class="hero-slide bg-primary text-white d-flex align-items-center" style="height: 500px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6">
+                                <h1 class="display-4 fw-bold mb-4">Bộ Sưu Tập Giày Thể Thao 2025</h1>
+                                <p class="lead mb-4">Khám phá những mẫu giày thể thao mới nhất từ các thương hiệu hàng đầu thế giới</p>
+                                <a href="#" class="btn btn-light btn-lg">Xem Ngay</a>
+                            </div>
+                            <div class="col-lg-6 text-center">
+                                <img src="/images/banners/banner1.jpg" alt="Giày thể thao" class="img-fluid" style="max-height: 400px;">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="hero-slide bg-danger text-white d-flex align-items-center" style="height: 500px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6">
+                                <h1 class="display-4 fw-bold mb-4">Giày Cao Gót Thanh Lịch</h1>
+                                <p class="lead mb-4">Tôn vinh vẻ đẹp phụ nữ với những đôi giày cao gót thời trang</p>
+                                <a href="#" class="btn btn-light btn-lg">Khám Phá</a>
+                            </div>
+                            <div class="col-lg-6 text-center">
+                                <img src="/images/banners/banner2.jpg" alt="Giày cao gót" class="img-fluid" style="max-height: 400px;">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="hero-slide bg-success text-white d-flex align-items-center" style="height: 500px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6">
+                                <h1 class="display-4 fw-bold mb-4">Sale Up To 50%</h1>
+                                <p class="lead mb-4">Ưu đãi lớn cho tất cả sản phẩm giày tây và giày boot</p>
+                                <a href="#" class="btn btn-warning btn-lg">Mua Ngay</a>
+                            </div>
+                            <div class="col-lg-6 text-center">
+                                <img src="/images/banners/banner3.jpg" alt="Sale giày" class="img-fluid" style="max-height: 400px;">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#heroCarousel" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#heroCarousel" data-bs-slide="next">
+            <span class="carousel-control-next-icon"></span>
+        </button>
+    </div>
+</section>
+
+<!-- Categories Section -->
+<section class="categories-section py-5">
+    <div class="container">
+        <div class="text-center mb-5">
+            <h2 class="display-5 fw-bold">Danh Mục Sản Phẩm</h2>
+            <p class="lead text-muted">Khám phá các loại giày đa dạng phù hợp với mọi phong cách</p>
+        </div>
+        <div class="row g-4">
+            @if (Model?.Categories != null)
+            {
+                @foreach (var category in Model.Categories)
+                {
+                    <div class="col-lg-2 col-md-4 col-sm-6">
+                        <div class="category-card text-center">
+                            <a href="@Url.Action("Category", "Products", new { id = category.Id })" class="text-decoration-none">
+                                <div class="category-image mb-3">
+                                    <img src="@(category.ImageUrl ?? "/images/categories/default.jpg")" alt="@category.Name" class="img-fluid rounded-circle" style="width: 120px; height: 120px; object-fit: cover;">
+                                </div>
+                                <h5 class="category-name text-dark">@category.Name</h5>
+                                <p class="text-muted small">@category.Description</p>
+                            </a>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</section>
+
+<!-- Featured Products Section -->
+<section class="featured-products py-5 bg-light">
+    <div class="container">
+        <div class="text-center mb-5">
+            <h2 class="display-5 fw-bold">Sản Phẩm Nổi Bật</h2>
+            <p class="lead text-muted">Những sản phẩm được yêu thích nhất tại Shop Giày An Nhiên</p>
+        </div>
+        <div class="row g-4">
+            @if (Model?.FeaturedProducts != null)
+            {
+                @foreach (var product in Model.FeaturedProducts)
+                {
+                    <div class="col-lg-3 col-md-6">
+                        <div class="product-card card h-100 shadow-sm">
+                            <div class="position-relative">
+                                <img src="@(product.MainImageUrl ?? "/images/products/default.jpg")" class="card-img-top" alt="@product.Name" style="height: 250px; object-fit: cover;">
+                                @if (product.IsOnSale)
+                                {
+                                    <span class="badge bg-danger position-absolute top-0 start-0 m-2">-@product.DiscountPercentage%</span>
+                                }
+                                @if (product.IsFeatured)
+                                {
+                                    <span class="badge bg-warning position-absolute top-0 end-0 m-2">Hot</span>
+                                }
+                            </div>
+                            <div class="card-body d-flex flex-column">
+                                <h6 class="card-title">@product.Name</h6>
+                                <p class="card-text text-muted small flex-grow-1">@product.Brand.Name</p>
+                                <div class="price-section mb-3">
+                                    @if (product.IsOnSale)
+                                    {
+                                        <span class="text-danger fw-bold">@product.SalePrice?.ToString("N0") VNĐ</span>
+                                        <span class="text-muted text-decoration-line-through ms-2">@product.Price.ToString("N0") VNĐ</span>
+                                    }
+                                    else
+                                    {
+                                        <span class="text-primary fw-bold">@product.Price.ToString("N0") VNĐ</span>
+                                    }
+                                </div>
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <a href="@Url.Action("Details", "Products", new { id = product.Id })" class="btn btn-outline-primary btn-sm">Xem Chi Tiết</a>
+                                    <button class="btn btn-primary btn-sm" onclick="addToCart(@product.Id)">
+                                        <i class="fas fa-cart-plus"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+        <div class="text-center mt-4">
+            <a href="@Url.Action("Index", "Products")" class="btn btn-primary btn-lg">Xem Tất Cả Sản Phẩm</a>
+        </div>
+    </div>
+</section>
